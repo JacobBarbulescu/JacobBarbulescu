@@ -1,11 +1,18 @@
 <h1 align="center"> 😎 Jacob Barbulescu 😎 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=1B810F&center=true&vCenter=true&width=435&lines=Aspiring+Game+Engine+Programmer;Computer+Science+Undergrad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=809D3C&center=true&vCenter=true&width=435&lines=Aspiring+Game+Engine+Programmer;Computer+Science+Undergrad" alt="Typing SVG" />
   </a>
 </p>
 
-[Portfolio](https://jacobbarbulescu.com) | [LinkedIn](https://www.linkedin.com/in/jacob-barbulescu/) | [Email](mailto:jrbarbulescu@gmail.com)
+<div align=center>
+  <a href="https://www.jacobbarbulescu.com"><img margin=alt="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-5D8736?style=for-the-badge&logo=briefcase&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://jacobbarbulescu.com/pdf/Barbulescu%20Resume.pdf"><img margin=alt="Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-809D3C?style=for-the-badge&logo=log&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jrbarbulescu@gmail.com"><img margin=alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-A9C46C?style=for-the-badge&logo=mail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jacob-barbulescu/"><img margin=alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-F4FFC3?style=for-the-badge&logo=LinkedIn-logo-2&logoColor=0A66C2"></a>
+</div>
+
+<br />
 
 I am a current full-time Computer Science undergrad at Stevens Institute of Technology looking to break into the game development industry. I mostly make my games in Unity and pride myself in making the entire game from scratch. All code, art, and even music is made by me for all of my projects so that I can practice and learn every aspect of making a game. My passion, however, is in game engine development.
 
