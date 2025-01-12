@@ -1,7 +1,7 @@
 ## 😎 Jacob Barbulescu 😎
 **`Aspiring game developer`**
 
-[My Portfolio](https://jacobbarbulescu.com) | [LinkedIn](https://www.linkedin.com/in/jacob-barbulescu/) | [Email](jrbarbulescu@gmail.com)
+[Portfolio](https://jacobbarbulescu.com) | [LinkedIn](https://www.linkedin.com/in/jacob-barbulescu/) | [Email](jrbarbulescu@gmail.com)
 
 I am a current full-time Computer Science undergrad at Stevens Institute of Technology looking to break into the game development industry. I mostly make my games in Unity and pride myself in making the entire game from scratch. All code, art, and even music is made by me for all of my projects so that I can practice and learn every aspect of making a game.
 
