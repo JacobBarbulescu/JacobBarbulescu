@@ -1,5 +1,9 @@
-## 😎 Jacob Barbulescu 😎
-**`Aspiring game developer`**
+<h1 align="center"> 😎 Jacob Barbulescu 😎 </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=1B810F&center=true&vCenter=true&width=435&lines=Aspiring+Game+Engine+Programmer;Computer+Science+Undergrad" alt="Typing SVG" />
+  </a>
+</p>
 
 [Portfolio](https://jacobbarbulescu.com) | [LinkedIn](https://www.linkedin.com/in/jacob-barbulescu/) | [Email](jrbarbulescu@gmail.com)
 
