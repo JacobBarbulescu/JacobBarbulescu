@@ -93,7 +93,7 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
   <!-- General software -->
   <h3>💪 General Software</h3>
   <div align="left">
-    <img src="svg/FL Studio.svg" height="40" alt="FL Studio logo" />
+    <img src="Images/FL Studio Logo.png" height="40" width="30" alt="FL Studio logo" />
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="40" alt="aseprite logo" />
     <img width="12" />
