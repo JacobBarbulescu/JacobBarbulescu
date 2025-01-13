@@ -26,6 +26,8 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
 - 🦆 Stevens Pinnacle Scholar
 - 🧠 3.97 GPA
 
+#
+
 <!-- Game repos -->
 <details open>
   <summary><h2>👾 My Games</h2></summary>
@@ -47,9 +49,11 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
   </table>
 </details>
 
+#
+
 <!-- Software and skills -->
 <!-- Some icons made using profile-readme-generator.com -->
-<details>
+<details open>
   <summary><h2>⚡ Skills</h2></summary>
 
   <!-- Programming Languages -->
@@ -103,8 +107,9 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="powerpoint logo" />
   </div>
-  
 </details>
+
+#
 
 <!-- Motivation -->
 <details>
