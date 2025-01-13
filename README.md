@@ -62,21 +62,21 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
   <h3>💻 Programming Languages</h3>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://github.com/user-attachments/assets/3a5cad1e-e1e6-41a4-b2c7-fd25829c8225" height="45" alt="assembly logo" />
   </div>
 
@@ -86,17 +86,17 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
   <h3>🔨 Development Software</h3>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://img.icons8.com/?size=100&id=34299&format=png&color=000000" height="40" alt="gamemaker logo" />
-    <img width="12" />
+    <img width="15" />
     <img src="https://upload.wikimedia.org/wikipedia/en/5/57/FMOD_logo.svg" height="40" alt="fmod logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" alt="opengl logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="50" alt="sdl logo"  />
   </div>
 
@@ -106,13 +106,13 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
   <h3>💪 General Software</h3>
   <div align="left">
     <img src="Images/FL Studio Logo.png" height="40" width="30" alt="FL Studio logo" />
-    <img width="12" />
+    <img width="15" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="40" alt="aseprite logo" />
-    <img width="12" />
+    <img width="15" />
     <img src="https://static.cdnlogo.com/logos/t/64/tinymce.svg" height="40" alt="tinymce logo" />
-    <img width="12" />
+    <img width="15" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="excel logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="powerpoint logo" />
   </div>
 </details>
