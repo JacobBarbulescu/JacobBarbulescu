@@ -32,6 +32,8 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
 <details open>
   <summary><h2>👾 My Games</h2></summary>
 
+  <br />
+
   <!-- List of game repos -->
   <table align=center style="text-align:center;">
     <tr>
@@ -74,7 +76,11 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+    <img width="12" />
+    <img src="https://github.com/user-attachments/assets/3a5cad1e-e1e6-41a4-b2c7-fd25829c8225" height="45" alt="assembly logo" />
   </div>
+
+  <br />
 
   <!-- Dev software -->
   <h3>🔨 Development Software</h3>
@@ -89,10 +95,12 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/en/5/57/FMOD_logo.svg" height="40" alt="fmod logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" alt="opengl logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="50" alt="sdl logo"  />
   </div>
+
+  <br />
 
   <!-- General software -->
   <h3>💪 General Software</h3>
