@@ -95,6 +95,8 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
     <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+    <img width="15" />
     <img src="https://img.icons8.com/?size=100&id=34299&format=png&color=000000" height="40" alt="gamemaker logo" />
     <img width="15" />
     <img src="https://upload.wikimedia.org/wikipedia/en/5/57/FMOD_logo.svg" height="40" alt="fmod logo"  />
