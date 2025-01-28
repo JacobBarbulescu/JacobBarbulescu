@@ -75,6 +75,10 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
     <img width="15" />
     <img src="https://github.com/user-attachments/assets/3a5cad1e-e1e6-41a4-b2c7-fd25829c8225" height="45" alt="assembly logo" />
@@ -108,6 +112,8 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
     <img src="Images/FL Studio Logo.png" height="40" width="30" alt="FL Studio logo" />
     <img width="15" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="40" alt="aseprite logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
     <img width="15" />
     <img src="https://static.cdnlogo.com/logos/t/64/tinymce.svg" height="40" alt="tinymce logo" />
     <img width="15" />
