@@ -3,7 +3,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=Aspiring+Game+Engine+Programmer;Computer+Science+Undergrad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=Making+the+World+a+Better+Place;Computer+Science+Undergrad" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,13 +18,17 @@
 
 <br />
 
-I am a current full-time Computer Science Undergrad at Stevens Institute of Technology looking to break into the game development industry. I mostly make my games in Unity and pride myself in making the entire game from scratch. All code, art, and even music is made entirely by me for all of my projects so that I can practice and learn every aspect of making a game. My passion, however, is in game engine programming.
+Hi there! I'm an aspiring software engineer who is having a blast learning everything he can about Computer Science. I am especially interested in Artificial Intelligence and the public good it can bring.
+
+My biggest motivation in life is helping others. My work at Mathnasium helps children who are behind in school and need support. My research at Stevens has let me explore the potential good AI can bring to public health issues such as mental health support shortages. I even have spent the last two years as a Pinnacle Peer Advisor to help incoming freshmen transition to the college life. Not only is this kind of work satisfying to me, but it's also always a great learning experience too!
+
+Outside of work, I enjoy making video games and producing music. It's a great creative outlet, and it's always fun to show my friends what I've been working on. I'm also a big basketball fan (go Hornets!).
 
 <!--INSERT SKILLS HERE-->
 - 🎓 Pursuing a Bachelors of Computer Science at Stevens Institute of Technology
-- 🎮 Active member of the Stevens Game Development Club
-- 🦆 Stevens Pinnacle Scholar
+- 🦆 Stevens Pinnacle Scholar and Peer Leader
 - 🧠 3.97 GPA
+- 🤖 Experienced with developing AI systems
 
 #
 
@@ -129,17 +133,4 @@ I am a current full-time Computer Science Undergrad at Stevens Institute of Tech
     <img width="15" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="powerpoint logo" />
   </div>
-</details>
-
-#
-
-<!-- Motivation -->
-<details>
-  <summary><h2>💚 Why I Love Engine Programming</h2></summary>
-  
-  <p>One of the biggest lessons that I carry with me is the importance of easy modification. I almost never add a feature without developing a system to modularly handle that feature. Not only does it save me many headaches while developing, it also teaches me a lot about abstraction and blackboxing. Why manually add in a new powerup when a powerup manager can do it all for you with the click of a button?</p>
-
-  <p>The most fascinating part of making games for me is building the tools to make them. I love organizing my games into highly modular, flexible programs that I can then use to rapidly add/remove mechanics and features. It feels like building a clock with all of its small pieces combining into a beautiful mechanism, and I often catch myself being more excited at making the systems to design my games with than designing the games themselves!</p>
-
-  <p>My heart is set on developing game engines to let designers create the greatest, most imaginative games possible!</p>
 </details>
