@@ -18,7 +18,7 @@
 
 <br />
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)" height="16" alt="wave"  /> Hi there! I'm an aspiring software engineer who is having a blast learning everything he can about Computer Science. I am especially interested in Artificial Intelligence and the public good it can bring.
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" height="16" alt="wave"  /> Hi there! I'm an aspiring software engineer who is having a blast learning everything he can about Computer Science. I am especially interested in Artificial Intelligence and the public good it can bring.
 
 My biggest motivation in life is helping others. My work at Mathnasium helps children who are behind in school and need support. My research at Stevens has let me explore the potential good AI can bring to public health issues such as mental health support shortages. I even have spent the last two years as a Pinnacle Peer Advisor to help incoming freshmen transition to the college life. Not only is this kind of work satisfying to me, but it's also always a great learning experience too!
 
@@ -83,54 +83,42 @@ Outside of work, I enjoy making video games and producing music. It's a great cr
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-    <img width="15" />
     <img src="https://github.com/user-attachments/assets/3a5cad1e-e1e6-41a4-b2c7-fd25829c8225" height="45" alt="assembly logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   </div>
 
   <br />
 
   <!-- Dev software -->
-  <h3>🔨 Development Software</h3>
+  <h3>🔨 Development Tools</h3>
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-    <img width="15" />
-    <img src="https://img.icons8.com/?size=100&id=34299&format=png&color=000000" height="40" alt="gamemaker logo" />
-    <img width="15" />
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/57/FMOD_logo.svg" height="40" alt="fmod logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" alt="opengl logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="50" alt="sdl logo"  />
+    <img src="https://static.cdnlogo.com/logos/t/64/tinymce.svg" height="40" alt="tinymce logo" />
   </div>
 
   <br />
 
   <!-- General software -->
-  <h3>💪 General Software</h3>
+  <h3>🎮 Fun Software</h3>
   <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+    <img width="15" />
+    <img src="https://img.icons8.com/?size=100&id=34299&format=png&color=000000" height="40" alt="gamemaker logo" />
+    <img width="15" />
     <img src="Images/FL Studio Logo.png" height="40" width="30" alt="FL Studio logo" />
     <img width="15" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="40" alt="aseprite logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" width="35" alt="aseprite logo" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" alt="opengl logo"  />
     <img width="15" />
-    <img src="https://static.cdnlogo.com/logos/t/64/tinymce.svg" height="40" alt="tinymce logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="50" alt="sdl logo"  />
     <img width="15" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="excel logo"  />
-    <img width="15" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="powerpoint logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
   </div>
 </details>
