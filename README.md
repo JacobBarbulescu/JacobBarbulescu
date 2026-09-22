@@ -11,7 +11,7 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <div align=center>
   <a href="https://www.jacobbarbulescu.com"><img margin=alt="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-5D8736?style=for-the-badge&logo=briefcase&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://jacobbarbulescu.com/pdf/Barbulescu%20Resume.pdf"><img margin=alt="Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-809D3C?style=for-the-badge&logo=log&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://jacobbarbulescu.com/pdf/Barbulescu-Resume.pdf"><img margin=alt="Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-809D3C?style=for-the-badge&logo=log&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:jrbarbulescu@gmail.com"><img margin=alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-A9C46C?style=for-the-badge&logo=mail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jacob-barbulescu/"><img margin=alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-F4FFC3?style=for-the-badge&logo=LinkedIn-logo-2&logoColor=0A66C2"></a>
 </div>
