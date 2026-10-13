@@ -40,13 +40,13 @@ Outside of work, I enjoy making video games and producing music. It's a great cr
   <table align=center style="text-align:center;">
     <tr>
       <td>
-        <a href="https://github.com/JacobBarbulescu/PickyEater">
+        <a href="https://github.com/JacobBarbulescu/PickyEater" target="_blank">
          <img src="Images/PickyEater.png" width="600" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/angeleanne-enriquez/Find-My-Fountain">
-          <p>Find my Fountain</p>
+        <a href="https://github.com/angeleanne-enriquez/Find-My-Fountain" target="_blank">
+          <img src="Images/Find My Fountain.png" width="600" />
         </a>
       </td>
     </tr>
@@ -65,12 +65,12 @@ Outside of work, I enjoy making video games and producing music. It's a great cr
   <table align=center style="text-align:center;">
     <tr>
       <td>
-        <a href="https://github.com/JacobBarbulescu/Deck-Thrower">
+        <a href="https://github.com/JacobBarbulescu/Deck-Thrower" target="_blank">
           <img src="Images/Deck Thrower Title.png" width="600" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/JacobBarbulescu/Fruity-Catcher">
+        <a href="https://github.com/JacobBarbulescu/Fruity-Catcher" target="_blank">
           <img src="Images/Fruity Catcher Title.png" width="600" />
         </a>
       </td>
