@@ -3,7 +3,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=Focused+on+the+Common+Good;Computer+Science+Undergrad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer;Computer+Science+Undergrad" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,17 +18,41 @@
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" height="16" alt="wave"  /> Hi there! I'm an aspiring software engineer who is having a blast learning everything he can about Computer Science. I am especially interested in Artificial Intelligence and the public good it can bring.
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" height="16" alt="wave"  /> Hi there! I'm an aspiring software engineer who is having a blast learning everything he can about Computer Science. I am especially interested in Artificial Intelligence and the public good it can bring in both the workforce and at home.
 
-My biggest motivation in life is helping others. My work at Mathnasium helps children who are behind in school and need support. My research at Stevens has let me explore the potential good AI can bring to public health issues such as mental health support shortages. I even have spent the last two years as a Pinnacle Peer Advisor to help incoming freshmen transition to the college life. Not only is this kind of work satisfying to me, but it's also always a great learning experience too!
+My biggest motivation in life is helping others. My work at Mathnasium helps children who are behind in school and need support. My research at Stevens has let me explore the potential good AI can bring to public health issues such as mental health support shortages and postpartum care. I have also spent the last two years as a Pinnacle Peer Advisor to help incoming freshmen transition to the college life. Not only is this kind of work satisfying to me, but it's also always a great learning experience too!
 
-Outside of work, I enjoy making video games and producing music. It's a great creative outlet, and it's always fun to show my friends what I've been working on. I'm also a big basketball fan (go Hornets!).
+Outside of work, I enjoy making video games and producing music. It's a great creative outlet, and it's always fun to show my friends what I've been working on.
 
 <!--INSERT SKILLS HERE-->
 - 🎓 Pursuing a Bachelors of Computer Science at Stevens Institute of Technology
 - 🦆 Stevens Pinnacle Scholar and Peer Leader
-- 🧠 3.97 GPA
+- 🧠 3.9 GPA
 - 🤖 Experienced with developing AI systems
+
+#
+
+<!-- Projects -->
+<details open>
+  <summary><h2>💻 My Projects</h2></summary>
+
+  <!-- List of projects -->
+  <table align=center style="text-align:center;">
+    <tr>
+      <td>
+        <a href="https://github.com/JacobBarbulescu/PickyEater">
+         <!--<img src="Images/Deck Thrower Title.png" width="600" />-->
+          <p>Picky Eater</p>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/angeleanne-enriquez/Find-My-Fountain">
+          <p>Find my Fountain</p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
 
 #
 
