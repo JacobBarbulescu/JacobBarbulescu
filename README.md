@@ -18,17 +18,19 @@
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" height="16" alt="wave"  /> Hi there! I'm an aspiring software engineer who is having a blast learning everything he can about Computer Science. I am especially interested in Artificial Intelligence and the public good it can bring in both the workforce and at home.
-
-My biggest motivation in life is helping others. My work at Mathnasium helps children who are behind in school and need support. My research at Stevens has let me explore the potential good AI can bring to public health issues such as mental health support shortages and postpartum care. I have also spent the last two years as a Pinnacle Peer Advisor to help incoming freshmen transition to the college life. Not only is this kind of work satisfying to me, but it's also always a great learning experience too!
-
-Outside of work, I enjoy making video games and producing music. It's a great creative outlet, and it's always fun to show my friends what I've been working on.
-
 <!--INSERT SKILLS HERE-->
 - 🎓 Pursuing a Bachelors of Computer Science at Stevens Institute of Technology
 - 🦆 Stevens Pinnacle Scholar and Peer Leader
 - 🧠 3.9 GPA
 - 🤖 Experienced with developing AI systems
+
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" height="16" alt="wave"  /> Hi there! I'm an aspiring software engineer who is having a blast learning everything he can about Computer Science. I am especially interested in Artificial Intelligence and the public good it can bring in both the workforce and at home.
+
+My biggest motivation in life is helping others. My work at Mathnasium helps children who are behind in school and need support. My research at Stevens has let me explore the potential good AI can bring to public health issues such as mental health support shortages and postpartum care. I have also spent the last two years as a Pinnacle Peer Advisor to help incoming freshmen transition to the college life. Not only is this kind of work satisfying to me, but it's also always a great learning experience too!
+
+Outside of work, I enjoy making video games and producing music. It's a great creative outlet, and it's always fun to show my friends what I've been working on.
 
 #
 
