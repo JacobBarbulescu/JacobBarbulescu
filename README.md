@@ -41,8 +41,7 @@ Outside of work, I enjoy making video games and producing music. It's a great cr
     <tr>
       <td>
         <a href="https://github.com/JacobBarbulescu/PickyEater">
-         <!--<img src="Images/Deck Thrower Title.png" width="600" />-->
-          <p>Picky Eater</p>
+         <img src="Images/PickyEater.png" width="600" />
         </a>
       </td>
       <td>
