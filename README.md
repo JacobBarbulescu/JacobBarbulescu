@@ -85,32 +85,25 @@ Outside of work, I enjoy making video games and producing music. It's a great cr
 <details open>
   <summary><h2>⚡ Skills</h2></summary>
 
-  <!-- Programming Languages -->
-  <h3>💻 Programming Languages</h3>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
-    <img width="15" />
-    <img src="https://github.com/user-attachments/assets/3a5cad1e-e1e6-41a4-b2c7-fd25829c8225" height="45" alt="assembly logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <!-- AI Libraries -->
+  <h3>🐍 Python Libraries</h3>
+  <div aligh="left">
+    <img src="Images/pytorch.svg" height="40" alt="pytorch logo" />
+    &nbsp;&nbsp;
+    <img src="Images/huggingface.svg" height="40" alt="huggingface logo" />
+    &nbsp;&nbsp;
+    <img src="Images/xgboost.svg" height="40" alt="xgboost logo" />
+    &nbsp;&nbsp;
+    <img src="Images/scikit-learn.svg" height="40" alt="scikit-learn logo" />
+    &nbsp;&nbsp;
+    <img src="Images/pandas.svg" height="40" alt="pandas logo" />
+    &nbsp;&nbsp;
+    <img src="Images/joblib.svg" height="40" alt="joblib logo" />
+    &nbsp;&nbsp;
+    <img src="Images/matplotlib.svg" height="40" alt="pyploy logo" />
+    &nbsp;&nbsp;
+    <img src="Images/yaml.svg" height="40" alt="yaml logo" />
+    &nbsp;&nbsp;
   </div>
 
   <br />
@@ -118,11 +111,43 @@ Outside of work, I enjoy making video games and producing music. It's a great cr
   <!-- Dev software -->
   <h3>🔨 Development Tools</h3>
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-    <img width="15" />
-    <img src="https://static.cdnlogo.com/logos/t/64/tinymce.svg" height="40" alt="tinymce logo" />
+    <img src="Images/react.svg" height="40" alt="react logo" />
+    &nbsp;&nbsp;
+    <img src="Images/express.svg" height="40" alt="express logo" />
+    &nbsp;&nbsp;
+    <img src="Images/node.svg" height="40" alt="node logo" />
+    &nbsp;&nbsp;
+    <img src="Images/mongodb.svg" height="40" alt="mongodb logo" />
+    &nbsp;&nbsp;
+    <img src="Images/imagemagick.svg" height="40" alt="imagemagick logo" />
+    &nbsp;&nbsp;
+    <img src="Images/git.svg" height="40" alt="git logo" />
+    &nbsp;&nbsp;
+    <img src="Images/tinymce.svg" height="40" alt="tinymce logo" />
+    &nbsp;&nbsp;
+  </div>
+
+  <br />
+
+  <!-- Programming Languages -->
+  <h3>💻 Programming Languages</h3>
+  <div align="left">
+    <img src="Images/python.svg" height="40" alt="python logo" />
+    &nbsp;&nbsp;
+    <img src="Images/javascript.svg" height="40" alt="javascript logo" />
+    &nbsp;&nbsp;
+    <img src="Images/java.svg" height="40" alt="java logo" />
+    &nbsp;&nbsp;
+    <img src="Images/html.svg" height="40" alt="html logo" />
+    &nbsp;&nbsp;
+    <img src="Images/css.svg" height="40" alt="css logo" />
+    &nbsp;&nbsp;
+    <img src="Images/cpp.svg" height="40" alt="cpp logo" />
+    &nbsp;&nbsp;
+    <img src="Images/csharp.svg" height="40" alt="csharp logo" />
+    &nbsp;&nbsp;
+    <img src="Images/sqlite.svg" height="40" alt="sqlite logo" />
+    &nbsp;&nbsp;
   </div>
 
   <br />
@@ -130,18 +155,17 @@ Outside of work, I enjoy making video games and producing music. It's a great cr
   <!-- General software -->
   <h3>🎮 Fun Software</h3>
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-    <img width="15" />
-    <img src="https://img.icons8.com/?size=100&id=34299&format=png&color=000000" height="40" alt="gamemaker logo" />
-    <img width="15" />
-    <img src="Images/FL Studio Logo.png" height="40" width="30" alt="FL Studio logo" />
-    <img width="15" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" width="35" alt="aseprite logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" alt="opengl logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="50" alt="sdl logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+    <img src="Images/unity.svg" height="40" alt="unity logo" />
+    &nbsp;&nbsp;
+    <img src="Images/gamemaker.svg" height="40" alt="gamemaker logo" />
+    &nbsp;&nbsp;
+    <img src="Images/FL Studio Logo.png" height="40" alt="fl logo" />
+    &nbsp;&nbsp;
+    <img src="Images/opengl.svg" height="40" alt="opengl logo" />
+    &nbsp;&nbsp;
+    <img src="Images/sdl.svg" height="40" alt="sdl logo" />
+    &nbsp;&nbsp;
+    <img src="Images/threejs.svg" height="40" alt="threejs logo" />
+    &nbsp;&nbsp;
   </div>
 </details>
